@@ -1,0 +1,60 @@
+PC Gaming 
+===================================================================================
+
+Motherboard
+-------------
+Asus TUF B560M-Plus Gaming Wifi ( LGA 1200 )
+[ Rp. 2.580.000 ]
+## Spesifikasi ##
+* mATX motherboard with PCIe 4.0
+* two M.2 slots 
+* 8+1 Power stages
+* Realtek 2.5Gb Ethernet
+* Intel® Wi-Fi 6
+* DisplayPort 1.4
+* HDMI 2.0
+* USB 3.2 Gen 2
+* USB 3.2 Gen 1 Type-C®
+* Thunderbolt™ 4 support
+* Aura Sync RGB Lighting, Addressable RGB
+* Support Gen-11
+
+Processor
+--------------
+Intel Core i5-11500 2.7 Ghz Rocket Lake Series
+[ Rp 3.250.000 ]
+
+SSD
+---------------
+ADATA SX6000PRO 256GB M.2 NVME PCIE GEN3X4 R 2100MB/S W 1500MB/S
+[ Rp 478.000 ]
+
+RAM
+---------------
+GEIL DDR4 SUPER LUCE SYNC RGB LED PC25600 3200MHz Dual Channel 16GB (2x8GB) GALS416GB3200C16BDC (Support AMD & INTEL)
+[ Rp 1.000.000 ]
+
+VGA Card
+---------------
+Asus GeForce RTX 3050 8GB GDDR6 - Dual OC Edition
+[ Rp 5.150.000 ]
+
+PSU
+---------------
+Antec ATOM B650 - 650W 80+ Bronze Certified - Flat Cable - 3 Years Warranty Replacement
+[ Rp 696.000 ]
+
+CPU Cooler
+---------------
+CUBE GAMING SHARPEN - ARGB Air Cooler - for All Intel Socket & AMD Socket - Support LGA 1700
+[ Rp 353.000 ]
+
+
+
+
+
+
+
+
+
+
